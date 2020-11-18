@@ -1,4 +1,4 @@
 # fundamentals-2020-homework
 Homework for Android Academy Fundamentals Course 2020
 
-Read [wiki](https://github.com/Android-Academy-Global/fundamentals-2020-homework/wiki)!
+Read the excercise instruction in [file](https://docs.google.com/document/d/1M4DH6qMoDVYzxJtTjdRCjmn63JrIZE6z3oQFTnQUeVY/edit?usp=sharing)!
